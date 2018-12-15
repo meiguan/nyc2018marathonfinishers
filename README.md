@@ -1,6 +1,7 @@
 # Analysis of 2018 NYC Marathon Finishers
 
 Mei Guan, meiguan, yg833
+https://www.authorea.com/343277/lKu8RmG4-Y58EkPk4EAjUA
 
 ## Problem Description:
 The first New York City Marathon was organized in 1970 with only 127 entrants in Central Park where 55 men finished and the only female entrant dropped out due to illness, according to the NYRR site (here). This year (2018) marks the 48th year of the race and it has grown to include more than 52K finishers who ran the race with an average time of 4:40:22. And many of these 2018 NYC finishers would hopefully qualify for entry into the 2020 Boston Marathon which is much sought after. 
@@ -20,7 +21,6 @@ If gender is a significant predictor/ the feature importance.
 Non binary genders are not included.
 
 ## References: 
-Santos-Lozano, Alejandro & Collado, Pilar & Foster, Carl & Lucia, Alejandro & Garatachea, Nuria. (2014). Influence of Sex and Level on Marathon Pacing Strategy. Insights from the New York City Race. International Journal of Sports Medicine. 35. 10.1055/s-0034-1367048. (accessed: https://www.researchgate.net/publication/260226395_Influence_of_Sex_and_Level_on_Marathon_Pacing_Strategy_Insights_from_the_New_York_City_Race on Nov 21, 2018) 
 
 Barrysmyth. “The New York City Marathon, 2017 – Running with Data – Medium.” Medium.com, Medium, 15 Nov. 2017, medium.com/running-with-data/the-new-york-city-marathon-2017-9acc6607b433.
 
