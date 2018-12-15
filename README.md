@@ -16,6 +16,8 @@ After obtaining this data, I will perform some basic exploratory data analysis t
 
 ## Analysis: 
 For the analysis portion, I will likely have to do some statistical tests like Chi-Square on the rates/ proportions. I would like to do some modeling to predict if men or women are more likely to qualify for the Boston Marathon in 2020. 
+If gender is a significant predictor/ the feature importance.
+Non binary genders are not included.
 
 ## References: 
 Santos-Lozano, Alejandro & Collado, Pilar & Foster, Carl & Lucia, Alejandro & Garatachea, Nuria. (2014). Influence of Sex and Level on Marathon Pacing Strategy. Insights from the New York City Race. International Journal of Sports Medicine. 35. 10.1055/s-0034-1367048. (accessed: https://www.researchgate.net/publication/260226395_Influence_of_Sex_and_Level_on_Marathon_Pacing_Strategy_Insights_from_the_New_York_City_Race on Nov 21, 2018) 
