@@ -3,7 +3,7 @@
 Mei Guan, meiguan, yg833
 
 ## Summary of Findings 
-https://www.authorea.com/343277/lKu8RmG4-Y58EkPk4EAjUA
+Report Link: https://www.authorea.com/343277/lKu8RmG4-Y58EkPk4EAjUA
 
 ## Proposed Project Scope:
 ### Problem Description:
